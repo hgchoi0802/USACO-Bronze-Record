@@ -1,0 +1,17 @@
+n = int(input())
+amount = []
+costs = []
+for i in range(n):
+  a,b = map(int,input().split())
+  amount.append(a)
+  costs.append(b)
+ 
+lowest = 1000
+totalcost = 0
+for i in range(n):
+  tmpcost = costs[i]
+  if tmpcost < lowest:
+    lowest = tmpcost
+  cost = lowest * amount[i]
+  totalcost += cost
+print(totalcost)
