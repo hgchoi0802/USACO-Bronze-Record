@@ -1,0 +1,7 @@
+N = int(input())
+lst = list(map(int,input().split()))
+give = ["0"]*N
+for i in range(N):
+  give[lst[i]-1] = str(i+1)
+ 
+print(" ".join(give))
