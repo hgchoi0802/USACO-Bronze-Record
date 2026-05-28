@@ -1,0 +1,13 @@
+n, b, d = map(int,input().split())
+oranges = list(map(int,input().split()))
+left = d
+cnt = 0
+for i in range(n):
+  if oranges[i] > b:
+    continue
+  if left >= oranges[i]:
+    left -= oranges[i]
+  else:
+    cnt += 1
+    left = d
+print(cnt)
