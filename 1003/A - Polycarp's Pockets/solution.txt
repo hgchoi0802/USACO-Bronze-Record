@@ -1,0 +1,6 @@
+n = int(input())
+a = list(map(int,input().split()))
+coins = [0]*101
+for i in range(n):
+  coins[a[i]] += 1
+print(max(coins))
