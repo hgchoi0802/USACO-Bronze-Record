@@ -1,0 +1,7 @@
+k, r = map(int,input().split())
+digit = int(k%10)
+for i in range(1,11):
+  num = digit*i
+  if num%10 == r or num%10 == 0:
+    print(i)
+    break
