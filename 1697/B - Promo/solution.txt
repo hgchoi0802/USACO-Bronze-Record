@@ -1,0 +1,12 @@
+n, q = map(int,input().split())
+p = list(map(int,input().split()))
+p.sort(reverse=True)
+total = [0]
+for i in range(n):
+  total.append(total[i]+p[i])
+for i in range(q):
+  x,y = map(int,input().split())
+  bought = total[x]
+  discount = total[x-y]
+  print(bought-discount)
+  
