@@ -1,0 +1,11 @@
+q = int(input())
+for i in range(q):
+  nums = sorted(map(int,input().split()))
+  #abc  --> c-a 가 2 차이가 나면 2 * (c-a- 2)
+  #--> 2 보다 작으면 0 
+  if nums[2]-nums[0] < 2:
+    dist = 0
+  else:
+    dist = 2*(nums[2]-nums[0]-2)
+  
+  print(dist)
