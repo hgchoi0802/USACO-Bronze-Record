@@ -1,0 +1,15 @@
+t = int(input())
+for _ in range(t):
+  n = int(input())
+  a = list(map(int,input().split()))
+  b = list(map(int,input().split()))
+  diff = 0
+  for i in range(n):
+    diff = max(diff,a[i]-b[i])
+  for i in range(n):
+    a[i] -= diff
+    a[i] = max(a[i],0)
+  if a == b:
+    print("YES")
+  else:
+    print("NO")
