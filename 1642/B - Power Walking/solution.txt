@@ -1,0 +1,9 @@
+t = int(input())
+for i in range(t):
+  k = int(input())
+  lst = set(map(int,input().split()))
+  unique = len(lst)
+  strength = []
+  for j in range(k):
+    strength.append(str(max(unique,j+1)))
+  print(" ".join(strength))
