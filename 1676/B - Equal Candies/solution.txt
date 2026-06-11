@@ -1,0 +1,9 @@
+T = int(input())
+for _ in range(T):
+  N = int(input())
+  h = list(map(int,input().split()))
+  target = min(h)
+  ans = 0
+  for i in range(N):
+      ans += (h[i]-target)
+  print(ans)
