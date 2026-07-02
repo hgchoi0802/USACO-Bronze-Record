@@ -1,0 +1,14 @@
+x = input()
+ans = ""
+ 
+for i in range(len(x)):
+    num = int(x[i])
+ 
+    if i == 0 and num == 9:
+        ans += x[i]
+    elif num >= 5:
+        ans += str(9 - num)
+    else:
+        ans += x[i]
+ 
+print(ans)
