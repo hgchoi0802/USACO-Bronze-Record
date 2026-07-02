@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (2)
 
 ---
 
@@ -29,12 +29,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/158/B%20-%20Taxi/solution.txt) |
+| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/158/B%20-%20Taxi/solution.txt) |
+| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
 
 ---
 
