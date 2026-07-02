@@ -1,0 +1,20 @@
+n = int(input())
+add = int(input())
+lst = []
+for i in range(n):
+  lst.append(int(input()))
+maximum = add + max(lst)
+ 
+lst.sort()
+while lst[-1] != lst[0] and add > 0:
+  for i in range(1,n):
+    while lst[n-1-i] < lst[n-i]:
+      add -= 1
+      lst[n-1-i] += 1
+      if add == 0:
+        break
+    if add == 0:
+      break
+tmp = lst[-1]
+minimum = tmp + (add+n-1)//n
+print(minimum, maximum)
