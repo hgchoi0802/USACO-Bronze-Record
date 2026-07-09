@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 8 |
 
 ---
 
@@ -14,8 +14,11 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
+- [brute force](#brute-force) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
+- [math](#math) (1)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 
 ---
@@ -32,6 +35,12 @@
 |---|---------|------------|----------|
 | 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.txt) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -47,6 +56,19 @@
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/158/B%20-%20Taxi/solution.txt) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
 | 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
+| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.txt) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.txt) |
 
 ### sortings
 
