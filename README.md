@@ -6,75 +6,49 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 8 |
+| 1 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
-- [binary search](#binary-search) (1)
-- [brute force](#brute-force) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (4)
-- [math](#math) (1)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
+- [data structures](#data-structures) (1)
+- [dsu](#dsu) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
-### *special
+### data structures
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/158/B%20-%20Taxi/solution.txt) |
+| 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
 
-### binary search
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
-
-### brute force
+### dsu
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.txt) |
+| 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/158/B%20-%20Taxi/solution.txt) |
-| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
-| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.txt) |
+| 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/158/B%20-%20Taxi/solution.txt) |
-| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
-| 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
-| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.txt) |
+| 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
 
-### math
+### two pointers
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.txt) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.txt) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.txt) |
+| 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
 
 ---
 
