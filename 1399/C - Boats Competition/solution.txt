@@ -1,0 +1,30 @@
+t = int(input())
+ 
+for i in range(t):
+    n = int(input())
+    w = list(map(int, input().split()))
+ 
+    ans = 0
+ 
+    for s in range(2, 2 * n + 1):
+        count = [0] * (n + 1)
+ 
+        for j in range(n):
+            count[w[j]] += 1
+ 
+        teams = 0
+ 
+        for j in range(1, n + 1):
+            k = s - j
+ 
+            if k < 1 or k > n:
+                continue
+ 
+            if j == k:
+                teams += count[j] // 2
+            elif j < k:
+                teams += min(count[j], count[k])
+ 
+        ans = max(ans, teams)
+ 
+    print(ans)
