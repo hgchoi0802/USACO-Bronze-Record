@@ -6,19 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 5 |
+| 2 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [data structures](#data-structures) (1)
 - [dsu](#dsu) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1399C | [Boats Competition](https://codeforces.com/contest/1399/problem/C) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1399/C%20-%20Boats%20Competition/solution.txt) |
 
 ### data structures
 
@@ -37,6 +44,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
+| 1399C | [Boats Competition](https://codeforces.com/contest/1399/problem/C) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1399/C%20-%20Boats%20Competition/solution.txt) |
 
 ### implementation
 
@@ -49,6 +57,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
+| 1399C | [Boats Competition](https://codeforces.com/contest/1399/problem/C) | 1200 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1399/C%20-%20Boats%20Competition/solution.txt) |
 
 ---
 
