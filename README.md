@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 6 |
+| 3 | 9 |
 
 ---
 
@@ -15,8 +15,11 @@
 - [brute force](#brute-force) (1)
 - [data structures](#data-structures) (1)
 - [dsu](#dsu) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
+- [number theory](#number-theory) (1)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -39,6 +42,12 @@
 |---|---------|------------|----------|
 | 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -51,6 +60,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1209G1 | [Into Blocks (easy version)](https://codeforces.com/contest/1209/problem/G1) | 2000 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1209/G1%20-%20Into%20Blocks%20(easy%20version)/solution.txt) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
 
 ### two pointers
 
