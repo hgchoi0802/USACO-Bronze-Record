@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 9 |
+| 4 | 9 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (1)
 - [data structures](#data-structures) (1)
 - [dsu](#dsu) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
@@ -47,6 +47,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
+| 1972B | [Coin Games](https://codeforces.com/contest/1972/problem/B) | 900 | [PyPy 3](https://github.com/hgchoi0802/USACO-Bronze-Record/blob/HEAD/1972/B%20-%20Coin%20Games/solution.txt) |
 
 ### greedy
 
